@@ -1,4 +1,4 @@
-Template.newVessel.events({
+Template.yourTemplate.events({
 	'submit #new-image'(event){
 		event.preventDefault();
 
